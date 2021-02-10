@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "318612416640",
+    "firebase_url": "https://alok-25683.firebaseio.com",
+    "project_id": "alok-25683",
+    "storage_bucket": "alok-25683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:3cffe7bf46f1a03e1d9e65",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-b23h77vptqvkmji5rqtq57e3k70ospls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase",
+            "certificate_hash": "78e7d3c779ced9c55ae08df641feb81c6558ecd4"
+          }
+        },
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:f38e6fbeabc0d1b71d9e65",
+        "android_client_info": {
+          "package_name": "com.example.integrations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-su36c0qja2danv4de89nh2ks4brni4tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.integrations",
+            "certificate_hash": "a4d95b879795a07c5b699f9e60189e38848d03a8"
+          }
+        },
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:8d52b412dd941f891d9e65",
+        "android_client_info": {
+          "package_name": "com.example.pariksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:493fe7003afc78bd1d9e65",
+        "android_client_info": {
+          "package_name": "registration.devalok.com.chat4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-b9lipicl30r5ie8bmm72s9ovgbavtrin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "registration.devalok.com.chat4u",
+            "certificate_hash": "78e7d3c779ced9c55ae08df641feb81c6558ecd4"
+          }
+        },
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:5e6800c8d30c1ac41d9e65",
+        "android_client_info": {
+          "package_name": "registration.devalok.com.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-56nt1g2tk4j33p9clbuaglu7kfgf2hkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "registration.devalok.com.fcm",
+            "certificate_hash": "78e7d3c779ced9c55ae08df641feb81c6558ecd4"
+          }
+        },
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:3f73ad88087420ee1d9e65",
+        "android_client_info": {
+          "package_name": "registration.devalok.com.plans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-glsfhh0pfdr8g7rbfq0lqnnr89mkff6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "registration.devalok.com.plans",
+            "certificate_hash": "78e7d3c779ced9c55ae08df641feb81c6558ecd4"
+          }
+        },
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318612416640:android:dd512f123d2b68d21d9e65",
+        "android_client_info": {
+          "package_name": "registration.devalok.com.tektalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318612416640-m6drnr6hsku84a00vut9okbb46qpc8ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "registration.devalok.com.tektalk",
+            "certificate_hash": "78e7d3c779ced9c55ae08df641feb81c6558ecd4"
+          }
+        },
+        {
+          "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiAmQ9PtIXmsV_D_XGN58e3uLo8ZgkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318612416640-084bi98v6a5gjpae0iphkm7v3cn6ur3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
